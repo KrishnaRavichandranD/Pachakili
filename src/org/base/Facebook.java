@@ -6,11 +6,17 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Facebook {
-	private void emp() {
-		System.out.println("fdfgjh");
-		
-	}private void empName() {
-		System.out.println("fghj");
+
+private void emp() {
+	System.out.println("fdfgjh");
+	
+}private void empName() {
+	System.out.println("fghj");
+}
+	private void employee() {
+		System.out.println("fcgjh");
+
+
 	}
 	public static void main(String[] args) {
 		
