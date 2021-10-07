@@ -6,6 +6,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Facebook {
+	private void employee() {
+		System.out.println("fcgjh");
+	}
 	public static void main(String[] args) {
 		
 	System.setProperty("webdriver.chrome.driver",
