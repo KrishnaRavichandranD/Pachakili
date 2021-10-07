@@ -6,6 +6,12 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Facebook {
+	private void emp() {
+		System.out.println("fdfgjh");
+		
+	}private void empName() {
+		System.out.println("fghj");
+	}
 	public static void main(String[] args) {
 		
 	System.setProperty("webdriver.chrome.driver",
@@ -41,6 +47,9 @@ public class Facebook {
 	
 	WebElement lang = driver.findElement(By.xpath("//div[@id='msdd']"+"//div[@class='ui-autocomplete-multiselect-item']"));
 	lang.click();
+	
+	
+	
 		
 		
 	}
